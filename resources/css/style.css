@@ -6,7 +6,6 @@ html {
 
 h1 {
   font-weight: normal;
-  font-size:50px;
   color:white;
   text-align: center;
 }
@@ -25,4 +24,13 @@ span {
    font-size: 21px;
    color: gray;
 
+ }
+
+ .heading h1 {
+   font-size:50px;
+ }
+
+ .description h1 {
+   font-size: 42px;
+   font-weight:300;
  }
